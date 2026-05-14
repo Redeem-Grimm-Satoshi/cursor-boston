@@ -1,9 +1,9 @@
 {
-  "title": "Short, specific title for your notebook",
-  "description": "1–3 sentences. What does the notebook do? What did you find?",
-  "displayName": "Your name as you want it on the page",
-  "tags": ["healthcare", "embeddings"],
+  "title": "MBTA Lie Detector: How Much Is Your Train Actually Lying to You?",
+  "description": "An interactive Marimo notebook that quantifies the gap between MBTA arrival predictions and reality. Pick any station and see the true distribution of predicted-minus-actual arrival times, get a 'should I just walk?' probability, and explore a rush-hour lie heatmap across the entire subway system.",
+  "displayName": "Redeem Grimm",
+  "tags": ["transit", "boston", "mbta", "interactive-viz", "data-science"],
   "collaborators": [
-    { "displayName": "Pat Collaborator", "githubHandle": "pat-collab" }
+    { }
   ]
 }
